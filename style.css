@@ -39,3 +39,15 @@ ul{
   font-size: 20px;
 }
 
+ol{
+  display: inline-block;
+  text-align: left;
+  list-style-position: inside;
+  font-size: 20px;
+  margin-right: 40px;
+}
+
+a:link    { color: blue;  }
+a:visited { color: red;   }
+a:hover   { color: green; }
+a:active  { color: pink;  }
